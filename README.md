@@ -1,2 +1,3 @@
 # DotFiles
-A collection of my Config Files for Linux Subsystems
+Welcome to my collection of my Config Files for Linux Subsystems.
+
